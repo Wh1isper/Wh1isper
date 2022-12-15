@@ -2,7 +2,7 @@
 ---
 ### About me
 
-Graduated from Harbin Institute of Technology. Work on interactive computing tools and big data components. 
+Graduated from Harbin Institute of Technology. Working on interactive computing tools and big data components. 
 
 Contribute to Jupyter Project in free time.
 
