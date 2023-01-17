@@ -10,6 +10,8 @@ Language: Python, C++
 
 ![Wh1isper's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh1isper&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh1isper&layout=compact)
+
 > 一生太短，只争朝夕。
 
 
