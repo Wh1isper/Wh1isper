@@ -13,7 +13,3 @@ Contribute to Jupyter Project in free time.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh1isper&hide=javascript,css,html&layout=compact)
 
 ---
-
-### Status
-
-Am spending my Chinese New Year holiday, Happy New Year~
