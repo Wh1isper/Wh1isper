@@ -14,7 +14,8 @@ Contribute to Jupyter Project in free time.
 
 Recently:
 
-- Researching (eBPF)[https://ebpf.io/] for data security applications.
-- Developing on [sparglim](https://github.com/Wh1isper/sparglim/)
+- 💻 Researching [eBPF](https://ebpf.io/) for data security applications.
+- 🔧 Developing on [sparglim](https://github.com/Wh1isper/sparglim/)
+- 📕 Learning and dive into Rust, Compiliers, OS
 
 ---
