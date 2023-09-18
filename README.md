@@ -4,7 +4,7 @@
 
 > 宏愿纵未了，奋斗总不太晚。
 
-Graduated from Harbin Institute of Technology. Working on big data and data security.
+Graduated from Harbin Institute of Technology. Working on big data and data security, [@wunder957](https://github.com/wunder957).
 
 Contribute to Jupyter Project in free time.
 
