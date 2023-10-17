@@ -19,4 +19,6 @@ Recently:
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 🔈 Blog: https://wh1isper.github.io/
 
+[![Zhongsheng Ji profile views](https://u8views.com/api/v1/github/profiles/43375501/views/day-week-month-total-count.svg)](https://u8views.com/github/Wh1isper)
+
 ---
