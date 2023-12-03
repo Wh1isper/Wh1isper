@@ -6,6 +6,8 @@
 
 Graduated from Harbin Institute of Technology. Working on big data and data security.
 
+I'm currently working with [hitsz-ids](https://github.com/hitsz-ids) on some open source projects, see below.
+
 Contribute to Jupyter Project in free time.
 
 ![Wh1isper's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh1isper&count_private=true)
@@ -24,7 +26,7 @@ Recently:
 Individual projects:
 - [sparglim](https://github.com/Wh1isper/sparglim): Makes PySpark App Configurable and Deploy Spark Connect Server Easier!
 
-hitsz-ids projects:
+[hitsz-ids](https://github.com/hitsz-ids) projects:
 - [duetector](https://github.com/hitsz-ids/duetector): A detector based on eBPF technology for metering data usage behaviour.
 - [synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator): Focused on quickly generating high-quality structured tabular data.
 
