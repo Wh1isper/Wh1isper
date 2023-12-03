@@ -24,7 +24,11 @@ Recently:
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 🔈 Blog: https://wh1isper.github.io/
 
+**I am looking for Scientific Software Engineer or Python Developer related jobs, feel free to contact me if you are interested!**
+
 ---
+
+### My contributions
 
 Individual projects:
 - [sparglim](https://github.com/Wh1isper/sparglim): Makes PySpark App Configurable and Deploy Spark Connect Server Easier!
