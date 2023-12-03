@@ -21,7 +21,7 @@ Recently:
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 🔈 Blog: https://wh1isper.github.io/
 
-**Thanks to all the help I've received from everyone, I've learnt a lot from the open source community and I would love to help it or anyone!**
+**Thank you all for helping me, I have learnt a lot from the open source community and I am willing to help the community or anyone!**
 
 Individual projects:
 - [sparglim](https://github.com/Wh1isper/sparglim): Makes PySpark App Configurable and Deploy Spark Connect Server Easier!
