@@ -1,12 +1,15 @@
 ## Wh1isper 👋
----
-### About me
 
 > 宏愿纵未了，奋斗总不太晚。
 
+**❤Thank you all for helping me, I have learnt a lot from the open source community and I am willing to help the community or anyone!**
+
+---
+### About me
+
 Graduated from Harbin Institute of Technology. Working on big data and data security.
 
-I'm currently working with [hitsz-ids](https://github.com/hitsz-ids) on some open source projects, see below.
+I'm currently working with [hitsz-ids](https://github.com/hitsz-ids) on open source projects, see below.
 
 Contribute to Jupyter Project in free time.
 
@@ -21,7 +24,7 @@ Recently:
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 🔈 Blog: https://wh1isper.github.io/
 
-**Thank you all for helping me, I have learnt a lot from the open source community and I am willing to help the community or anyone!**
+---
 
 Individual projects:
 - [sparglim](https://github.com/Wh1isper/sparglim): Makes PySpark App Configurable and Deploy Spark Connect Server Easier!
@@ -36,6 +39,8 @@ Contributed projects:
 - [jupyverse](https://github.com/jupyter-server/jupyverse): A Jupyter server based on FastAPI 🚀.
 - [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator): OAuth + JupyterHub Authenticator = OAuthenticator.
 - [terminado](https://github.com/jupyter/terminado): Terminals served by tornado websockets.
+
+---
 
 [![Zhongsheng Ji profile views](https://u8views.com/api/v1/github/profiles/43375501/views/day-week-month-total-count.svg)](https://u8views.com/github/Wh1isper)
 
