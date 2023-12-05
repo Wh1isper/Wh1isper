@@ -2,8 +2,6 @@
 
 > 宏愿纵未了，奋斗总不太晚。
 
-**❤Thank you all for helping me, I have learnt a lot from the open source community and I am willing to help the community or anyone!**
-
 ---
 ### About me
 
