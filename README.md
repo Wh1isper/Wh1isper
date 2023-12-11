@@ -19,6 +19,7 @@ Recently:
 
 - 💻 Researching on [eBPF](https://ebpf.io/) for data security applications
 - 🔧 Developing on [duetector](https://github.com/hitsz-ids/duetector), A detector based on eBPF technology for metering data usage behaviour
+- 🔧 Developing on [synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator): Focused on quickly generating high-quality structured tabular data.
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 🔈 Blog: https://wh1isper.github.io/
 
