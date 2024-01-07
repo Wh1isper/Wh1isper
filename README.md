@@ -5,11 +5,10 @@
 ---
 ### About me
 
-I'm a Python and AIOps engineer, mainly using the Python language. **Expertise in developing scientific computing software and collaborating with researchers on AI applications.**
-
-Graduated from Harbin Institute of Technology. Worked for a top Chinese cybersecurity company in big data and data security and was collaborating with [hitsz-ids](https://github.com/hitsz-ids/).
-
-Contribute to Jupyter Project in free time.
+- 👨‍🔧I'm a Python and AIOps engineer. **Expertise in developing scientific computing software and collaborating with researchers on AI applications.**
+- 🎓Graduated from Harbin Institute of Technology.
+- 💼Worked for a top Chinese cybersecurity company in big data and data security and was collaborating with [hitsz-ids](https://github.com/hitsz-ids/).
+- 🌈Contribute to Jupyter Project in free time.
 
 ![Wh1isper's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh1isper&count_private=true)
 
