@@ -5,9 +5,9 @@
 ---
 ### About me
 
-Graduated from Harbin Institute of Technology. Working on big data and data security.
+I'm a Python and AIOps engineer, mainly using the Python language. **Expertise in developing scientific computing software and collaborating with researchers on AI applications.**
 
-I'm currently working with [hitsz-ids](https://github.com/hitsz-ids) on open source projects, see below.
+Graduated from Harbin Institute of Technology. Worked for a top Chinese cybersecurity company in big data and data security and was collaborating with [hitsz-ids](https://github.com/hitsz-ids/).
 
 Contribute to Jupyter Project in free time.
 
@@ -17,19 +17,15 @@ Contribute to Jupyter Project in free time.
 
 Recently:
 
-- 💻 Researching on [eBPF](https://ebpf.io/) for data security applications
-- 🔧 Developing on [duetector](https://github.com/hitsz-ids/duetector), A detector based on eBPF technology for metering data usage behaviour
-- 🔧 Developing on [synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator): Focused on quickly generating high-quality structured tabular data.
+- 🚀 AI for text to video AIGC generation [@Morph Studio](https://www.morphstudio.com/)
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 🔈 Blog: https://wh1isper.github.io/
-
-**I am looking for Scientific Software Engineer or Python Developer related jobs, feel free to contact me if you are interested!**
 
 ❤[sponsor me](https://wh1isper.github.io/about/#%E6%8D%90%E8%B5%A0)
 
 ---
 
-### My contributions
+### Some Open Source Contributions
 
 Individual projects:
 - [sparglim](https://github.com/Wh1isper/sparglim): Makes PySpark App Configurable and Deploy Spark Connect Server Easier!
