@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh1isper&hide=javascript,css,html&layout=compact)
 
 Recently:
-- 🚀 AI for text to video AIGC generation [@Morph Studio](https://www.morphstudio.com/)
+- 🚀 AIGC: text to video[@Morph Studio](https://www.morphstudio.com/)
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 🔈 Blog: https://wh1isper.github.io/
 
