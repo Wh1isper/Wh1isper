@@ -18,7 +18,7 @@
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=wh1isper&)
 
 Recently:
-- 🚀 AIGC: text to video[@Morph Studio](https://www.morphstudio.com/)
+- 🚀 AIGC: video generation[@Morph Studio](https://www.morphstudio.com/)
 - 📕 Learning and dive into Rust, Compiliers, OS
 - 🔈 Blog: https://wh1isper.github.io/
 
