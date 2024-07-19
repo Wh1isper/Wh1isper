@@ -6,7 +6,7 @@
 ### About me
 
 - 👨‍🔧I'm a Python and AIOps engineer. **Expertise in developing scientific computing software and collaborating with researchers on AI applications.**
-- 🤖Right now I'm working at [Morph Studio](https://morphstudio.com/) as a backend architect and infrastructure architect. Writing most of the backend and AIOps code.
+- 🤖Right now I'm working at [Morph Studio](https://morphstudio.com/) as a backend architect and infrastructure architect.
 - 💼Used to work for a top Chinese cybersecurity company on big data and data security with [hitz-ids](https://github.com/hitsz-ids/).
 - 🎓Graduated from Harbin Institute of Technology.
 - 🌈Contribute to Jupyter Project in free time.
