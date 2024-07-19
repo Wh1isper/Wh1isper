@@ -27,6 +27,7 @@
 Individual projects:
 - [brq](https://github.com/Wh1isper/brq): Python job queue built with asyncio and redis stream. Support defer job and dead queue.
 - [sparglim](https://github.com/Wh1isper/sparglim): Makes PySpark App Configurable and Deploy Spark Connect Server Easier!
+- [moriarty](https://github.com/Wh1isper/moriarty): Moriarty is a set of components for building asynchronous inference cluster.
 
 [hitsz-ids](https://github.com/hitsz-ids) projects:
 - [duetector](https://github.com/hitsz-ids/duetector): A detector based on eBPF technology for metering data usage behaviour.
