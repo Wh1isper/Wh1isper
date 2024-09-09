@@ -11,6 +11,8 @@
 
 ![Wh1isper's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh1isper&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh1isper&hide=javascript,css,html&layout=compact)
+
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=wh1isper&)
 
 ❤[sponsor me](https://wh1isper.github.io/about/#%E6%8D%90%E8%B5%A0)
@@ -34,48 +36,6 @@ Contributed projects:
 - [jupyverse](https://github.com/jupyter-server/jupyverse): A Jupyter server based on FastAPI 🚀.
 - [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator): OAuth + JupyterHub Authenticator = OAuthenticator.
 - [terminado](https://github.com/jupyter/terminado): Terminals served by tornado websockets.
-
----
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.3%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   69 repos            ██████████████████░░░░░░░   72.63 % 
-Dockerfile               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Smarty                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Wh1isper/Wh1isper/main/assets/bar_graph.png)
-
-
- Last Updated on 09/09/2024 07:22:55 UTC
-<!--END_SECTION:waka-->
 
 ---
 
