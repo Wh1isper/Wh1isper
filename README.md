@@ -1,7 +1,5 @@
 ## Wh1isper 👋
 
-> 穿长衫，站着喝酒。
-
 ---
 ### About me
 
@@ -9,12 +7,9 @@
 - 🤖Right now, I'm working as a backend architect and infrastructure architect at an AIGC startup.
 - 💼Used to work for a top Chinese cybersecurity company on big data and data security with [hitz-ids](https://github.com/hitsz-ids/).
 - 🎓Graduated from Harbin Institute of Technology.
-- 🌈Contribute to Jupyter Project in free time.
 - 🔈 Blog(in Chinese): https://wh1isper.github.io/
 
 ![Wh1isper's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh1isper&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh1isper&hide=javascript,css,html&layout=compact)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=wh1isper&)
 
@@ -39,6 +34,11 @@ Contributed projects:
 - [jupyverse](https://github.com/jupyter-server/jupyverse): A Jupyter server based on FastAPI 🚀.
 - [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator): OAuth + JupyterHub Authenticator = OAuthenticator.
 - [terminado](https://github.com/jupyter/terminado): Terminals served by tornado websockets.
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
