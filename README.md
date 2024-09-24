@@ -19,22 +19,17 @@
 
 ---
 
-### Some Open Source Contributions
+### 🔥Open-source projects
 
 Individual projects:
 - [brq](https://github.com/Wh1isper/brq): Python job queue built with asyncio and redis stream. Support defer job and dead queue.
 - [sparglim](https://github.com/Wh1isper/sparglim): Makes PySpark App Configurable and Deploy Spark Connect Server Easier!
 
-[hitsz-ids](https://github.com/hitsz-ids) projects:
+Collaboration with [hitsz-ids](https://github.com/hitsz-ids) projects:
 - [duetector](https://github.com/hitsz-ids/duetector): A detector based on eBPF technology for metering data usage behaviour.
 - [synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator): Focused on quickly generating high-quality structured tabular data.
 
-Contributed projects:
-- [jupyter_server](https://github.com/jupyter-server/jupyter_server): The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.
-- [jupyter_server_terminals](https://github.com/jupyter-server/jupyter_server_terminals): A Jupyter Server Extension Providing Support for Terminals.
-- [jupyverse](https://github.com/jupyter-server/jupyverse): A Jupyter server based on FastAPI 🚀.
-- [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator): OAuth + JupyterHub Authenticator = OAuthenticator.
-- [terminado](https://github.com/jupyter/terminado): Terminals served by tornado websockets.
+I've also contributed to Jupyter-related projects, mainly file management, endpoint management, and multiplayer collaboration.
 
 ---
 
