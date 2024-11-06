@@ -4,8 +4,7 @@
 ### About me
 
 - 👨‍🔧I'm a Python and AIOps engineer. **Expertise in developing scientific computing software and collaborating with researchers on AI applications.**
-- 👋I'm looking for a job right now, remote or in Shenzhen, China.
-- 💼Used to work as a backend architect and infrastructure architect at an AIGC startup.
+- 🚀Working on AIGC now!
 - 💼Used to work for a top Chinese cybersecurity company on big data and data security with [hitsz-ids](https://github.com/hitsz-ids/).
 - 🎓Graduated from Harbin Institute of Technology.
 - 🔈 Blog(in Chinese): https://wh1isper.github.io/
