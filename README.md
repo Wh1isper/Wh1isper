@@ -7,7 +7,7 @@
 - 🚀Working on AIGC now!
 - 💼Used to work for a top Chinese cybersecurity company on big data and data security with [hitsz-ids](https://github.com/hitsz-ids/).
 - 🎓Graduated from Harbin Institute of Technology.
-- 🔈 Blog(in Chinese): https://wh1isper.github.io/
+- 🔈 Blog(in Chinese/English): https://blog.wh1isper.top/
 
 ![Wh1isper's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh1isper&count_private=true)
 
