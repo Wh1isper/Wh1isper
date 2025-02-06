@@ -13,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh1isper&hide=javascript,css,html&layout=compact)
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=wh1isper&)
+[![GitHub Streak](https://ghstreak.wh1isper.top?user=Wh1isper)](https://git.io/streak-stats)
 
 ❤[sponsor me](https://wh1isper.github.io/about/#%E6%8D%90%E8%B5%A0)
 
