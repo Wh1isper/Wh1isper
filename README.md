@@ -3,9 +3,9 @@
 ---
 ### About me
 
-- 👨‍🔧I'm a Python and AIOps engineer. **Expertise in developing scientific computing software and collaborating with researchers on AI applications.**
-- 🚀Working on AIGC now!
-- 💼Used to work for a top Chinese cybersecurity company on big data and data security with [hitsz-ids](https://github.com/hitsz-ids/).
+- 👨‍🔧Full Stack Engineer, Building AI Applications from Zero to One, enjoying Python and Rust.
+- 🚀Building LLM applications and tools in [ZeroLab](https://github.com/ai-zerolab).
+- 💼Used to work for a top Chinese cybersecurity company on big data and data security with [hitsz-ids](https://github.com/hitsz-ids/), ex MorphStudio principal engineer.
 - 🎓Graduated from Harbin Institute of Technology.
 - 🔈 Blog(in Chinese/English): https://blog.wh1isper.top/
 
@@ -28,6 +28,10 @@ Individual projects:
 With [hitsz-ids](https://github.com/hitsz-ids):
 - [duetector](https://github.com/hitsz-ids/duetector): A detector based on eBPF technology for metering data usage behaviour.
 - [synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator): Focused on quickly generating high-quality structured tabular data.
+
+LLM applications and tools in [ZeroLab](https://github.com/ai-zerolab):
+- [Floword](https://github.com/ai-zerolab/Floword): Building workflow with natural language
+- [mcp-toolbox](https://github.com/ai-zerolab/mcp-toolbox): Maintenance of a set of tools to enhance LLM through MCP protocols.
 
 I've also contributed to Jupyter-related projects, mainly file management, endpoint management, and multiplayer collaboration.
 
