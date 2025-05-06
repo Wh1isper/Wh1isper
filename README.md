@@ -5,7 +5,7 @@
 
 - 👨‍🔧Full Stack Engineer, Building AI Applications from Zero to One, enjoying Python and Rust.
 - 🚀Building LLM applications and tools in [ZeroLab](https://github.com/ai-zerolab).
-- 💼Used to work for a top Chinese cybersecurity company on big data and data security with [hitsz-ids](https://github.com/hitsz-ids/), ex MorphStudio principal engineer.
+- 💼Used to work for a top Chinese cybersecurity company on big data and data security with [hitsz-ids](https://github.com/hitsz-ids/), ex MorphStudio backend tech leader.
 - 🎓Graduated from Harbin Institute of Technology.
 - 🔈 Blog(in Chinese/English): https://blog.wh1isper.top/
 
