@@ -30,8 +30,9 @@ With [hitsz-ids](https://github.com/hitsz-ids):
 - [synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator): Focused on quickly generating high-quality structured tabular data.
 
 LLM applications and tools in [ZeroLab](https://github.com/ai-zerolab):
-- [Floword](https://github.com/ai-zerolab/Floword): Building workflow with natural language
+- [mcp-email-server](https://github.com/ai-zerolab/mcp-email-server): IMAP and SMTP via MCP Server
 - [mcp-toolbox](https://github.com/ai-zerolab/mcp-toolbox): Maintenance of a set of tools to enhance LLM through MCP protocols.
+- [lightblue-ai](https://github.com/ai-zerolab/lightblue-ai): Light Blue is an agentic agent framework for building AI applications
 
 I've also contributed to Jupyter-related projects, mainly file management, endpoint management, and multiplayer collaboration.
 
