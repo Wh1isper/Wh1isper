@@ -19,25 +19,6 @@
 
 ---
 
-### 🔥Open-source projects
-
-Individual projects:
-- [brq](https://github.com/Wh1isper/brq): Python job queue built with asyncio and redis stream. Support defer job and dead queue.
-- [sparglim](https://github.com/Wh1isper/sparglim): Makes PySpark App Configurable and Deploy Spark Connect Server Easier!
-
-With [hitsz-ids](https://github.com/hitsz-ids):
-- [duetector](https://github.com/hitsz-ids/duetector): A detector based on eBPF technology for metering data usage behaviour.
-- [synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator): Focused on quickly generating high-quality structured tabular data.
-
-LLM applications and tools in [ZeroLab](https://github.com/ai-zerolab):
-- [mcp-email-server](https://github.com/ai-zerolab/mcp-email-server): IMAP and SMTP via MCP Server
-- [mcp-toolbox](https://github.com/ai-zerolab/mcp-toolbox): Maintenance of a set of tools to enhance LLM through MCP protocols.
-- [lightblue-ai](https://github.com/ai-zerolab/lightblue-ai): Light Blue is an agentic agent framework for building AI applications
-
-I've also contributed to Jupyter-related projects, mainly file management, endpoint management, and multiplayer collaboration.
-
----
-
 [![Zhongsheng Ji profile views](https://u8views.com/api/v1/github/profiles/43375501/views/day-week-month-total-count.svg)](https://u8views.com/github/Wh1isper)
 
 ---
