@@ -7,7 +7,7 @@ Il faut imaginer Sisyphe heureux.
 ### Current Projects
 
 - [ya-agent-sdk](https://github.com/Wh1isper/ya-agent-sdk) - Yet another agent SDK for building AI agents with Pydantic AI
-- [netherbrain](https://github.com/Wh1isper/netherbrain) - A general agent service for homelab, local first with IM integration
+- [anycap](https://anycap.ai) - The missing piece in human-agent interaction
 
 <details>
 <summary>GitHub Stats</summary>
