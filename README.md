@@ -6,7 +6,7 @@ Il faut imaginer Sisyphe heureux.
 
 ### Current Projects
 
-- [ya-agent-sdk](https://github.com/Wh1isper/ya-agent-sdk) - Yet another agent SDK for building AI agents with Pydantic AI
+- [ya-mono](https://github.com/Wh1isper/ya-mono) - Agent SDK, CLI, Agent Platform
 - [anycap](https://anycap.ai) - The missing piece in human-agent interaction
 
 <details>
