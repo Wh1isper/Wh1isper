@@ -6,7 +6,9 @@ Il faut imaginer Sisyphe heureux.
 
 ### Current Projects
 
-- [ya-mono](https://github.com/Wh1isper/ya-mono) - Agent SDK, CLI, Agent Platform
+- [ya-mono](https://github.com/Wh1isper/ya-mono) - Agent Harness, Claw and Platform
+- [starweaver](https://github.com/Wh1isper/starweaver), Agent SDK, CLI, RPC, Desktop in Rust
+- [mcp-email-server](https://github.com/Wh1isper/mcp-email-server) - IMAP and SMTP via MCP Server
 - [anycap](https://anycap.ai) - The missing piece in human-agent interaction
 
 <details>
