@@ -2,7 +2,7 @@ Il faut imaginer Sisyphe heureux.
 
 ### Blog
 
-[blog.wh1isper.top](https://blog.wh1isper.top/) | [RSS](https://blog.wh1isper.top/atom.xml)
+[Blog](https://blog.wh1isper.top/) | [RSS](https://blog.wh1isper.top/atom.xml) | [Sponsors](https://github.com/sponsors/Wh1isper)
 
 ### Current Projects
 
