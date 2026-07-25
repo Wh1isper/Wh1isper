@@ -1,6 +1,6 @@
 Il faut imaginer Sisyphe heureux.
 
-### Blog
+### About
 
 [Blog](https://blog.wh1isper.top/) | [RSS](https://blog.wh1isper.top/atom.xml) | [Sponsors](https://github.com/sponsors/Wh1isper)
 
