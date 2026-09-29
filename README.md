@@ -1,4 +1,4 @@
-<img width="2806" height="726" alt="image" src="https://github.com/user-attachments/assets/fff482e2-0d01-4cb9-9860-3c3c9cd4983e" />Il faut imaginer Sisyphe heureux.
+Il faut imaginer Sisyphe heureux.
 
 ### About
 
