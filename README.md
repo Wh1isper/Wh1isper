@@ -1,4 +1,4 @@
-Il faut imaginer Sisyphe heureux.
+<img width="2806" height="726" alt="image" src="https://github.com/user-attachments/assets/fff482e2-0d01-4cb9-9860-3c3c9cd4983e" />Il faut imaginer Sisyphe heureux.
 
 ### About
 
@@ -6,6 +6,7 @@ Il faut imaginer Sisyphe heureux.
 
 ### Current Projects
 
+- [Agent Foundation](https://github.com/converge-ai-labs/agent-foundation) - Library and self-hosted platform with managed agents, memory, sandboxes, computer use, and durable execution
 - [ya-mono](https://github.com/Wh1isper/ya-mono) - Agent Harness, Claw and Platform
 - [starweaver](https://github.com/Wh1isper/starweaver), Agent SDK, CLI, RPC, Desktop in Rust
 - [mcp-email-server](https://github.com/Wh1isper/mcp-email-server) - IMAP and SMTP via MCP Server
